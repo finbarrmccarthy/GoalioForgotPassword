@@ -1,5 +1,5 @@
 {
-    "name": "goalio/goalio-forgotpassword",
+    "name": "finbarrmccarthy/goalio-forgotpassword",
     "description": "Adding Forgot Password functionalitiy to ZfcUser",
     "type": "library",
     "keywords": [
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "goalio/goalio-mailservice": "1.*",
+        "finbarrmccarthy/goalio-mailservice": "1.*",
         "zf-commons/zfc-user": "1.*"
     },
     "autoload": {
