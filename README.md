@@ -137,6 +137,7 @@ The following options are available:
 	)`.
 
 Acknowledgements
+bump
 ----------------
 Daniel Strøm (https://github.com/Danielss89)
 for most of the basic work in the cookie adapter etc.
