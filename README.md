@@ -3,6 +3,8 @@ GoalioForgotPassword
 
 Version 1.0.0 Created by the goalio UG (haftungsbeschränkt)
 
+(modified by Finbarr, attempting to get working with User ID as UUID)
+
 Introduction
 ------------
 
